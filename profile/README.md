@@ -1,12 +1,15 @@
-## Hi there 👋
+<img src="https://github.com/Moon3Bro/.github/assets/63226023/49ab3836-e4d4-4446-8539-29ca80bb25f8">
+<br>
+<br>
+<br>
 
-<!--
+# _문정 `세명`🚦의 얼간이들이 모였다_
 
-**Here are some ideas to get you started:**
+## 📝 Study
+1. [코틀린 인 액션 스터디](https://github.com/Moon3Bro/Kotlin-In-Action)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🖥️ Project
+<br>
+<br>
+<br>
+<img src="https://github.com/Moon3Bro/.github/assets/63226023/49ab3836-e4d4-4446-8539-29ca80bb25f8">

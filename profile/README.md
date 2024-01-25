@@ -9,6 +9,7 @@
 1. [코틀린 인 액션 스터디](https://github.com/Moon3Bro/Kotlin-In-Action)
 
 ## 🖥️ Project
+1. [와글와글플레이스 🧇](https://github.com/Moon3Bro/WagglePlace)
 <br>
 <br>
 <br>
